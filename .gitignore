@@ -37,6 +37,9 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
+# Version file created by the build system
+bayes/version.py
+
 # Unit test / coverage reports
 htmlcov/
 .tox/

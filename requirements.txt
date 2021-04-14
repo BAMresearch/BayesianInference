@@ -1,3 +1,5 @@
-numpy
-scipy
+# install package from setup.py
+# NOTE: -e . for editable mode
+-e .
+
 coverage

@@ -1,0 +1,11 @@
+name: null                          # Our env was made with --prefix
+channels:
+  - conda-forge                     # third party stuff
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - doit
+  - pytest
+  - coverage
+  - conda-ecosystem-user-package-isolation
